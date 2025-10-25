@@ -23,4 +23,4 @@ plugins {
 }
 
 include(":app")
-rootProject.name = "app_microsoft6aBC"
+rootProject.name = "app_microsoft6aHO"
